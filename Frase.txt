@@ -6,3 +6,7 @@ Andre = cade a prova de git
 khalil = PR significa prato feito.
 khalil = PR significa prato feito.
 khalil = a luz no fim do túnel sempre é um trem
+Luiza_1 = tudo de ruim  a todos os "artistas de IA"
+Luiza_2 = nao sei mais que frase colocar
+Luiza_3 = frase legal
+
