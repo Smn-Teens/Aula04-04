@@ -1,7 +1,5 @@
 Seu Nome = Sua Frase
 
-<<<<<<< HEAD
 Luiza_1 = tudo de ruim  a todos os "artistas de IA"
-=======
+Luiza_2 = nao sei mais que frase colocar
 khalil = PR significa prato feito.
->>>>>>> main
