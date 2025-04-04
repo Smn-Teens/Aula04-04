@@ -2,4 +2,4 @@ Seu Nome = Sua Frase
 
 khalil = PR significa prato feito.
 khalil = a luz no fim do túnel sempre é um trem
-khalil = você sabia que uma formiga pode aguentar até 19*e^244 seu peso?
+khalil = você sabia que duas formiga pode aguentar até 19*e^244 seu peso?
