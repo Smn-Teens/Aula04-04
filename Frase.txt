@@ -1,3 +1,7 @@
 Seu Nome = Sua Frase
 
+<<<<<<< HEAD
 Luiza_1 = tudo de ruim  a todos os "artistas de IA"
+=======
+khalil = PR significa prato feito.
+>>>>>>> main
