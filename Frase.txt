@@ -1,1 +1,3 @@
 Seu Nome = Sua Frase
+
+Nicolas = Viver a guerra ou almejar a paz? A dualidade e essencial em ambos os lados
