@@ -1,6 +1,5 @@
 Seu Nome = Sua Frase
 
-Luiza_1 = tudo de ruim  a todos os "artistas de IA"
-Luiza_2 = nao sei mais que frase colocar
-Luiza_3 = frase legal
-khalil = PR significa prato feito.
+Luiza_1 = tudo de ruim a todos os "geradores de IA"
+Luiza_2 = eu sei mais que frase colocar
+Luiza_3 = frase ilegal
